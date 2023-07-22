@@ -15,13 +15,6 @@
 
 <p>Aplikasi Qiroatuna Hijaiyyah ini merupakan aplikasi untuk media pembelajaran interaktif dalam mempelajari huruf hijaiyyah atau huruf arab yang dilengkapi grafis dan sound huruf yang membuat user cepat memahami dan menghafalnya. Sebenarnya aplikasi aku buat untuk ustadz kami yakni Ust. Mohammad Zainal Azikin untuk hadiah pernikahannya dan media belajar di TPQ (Taman Pendidikan Quran) nya. Mohon maaf kalau ada kekurangan. Kritik dan saran sangat kami butuhkan.</p>
 
-## Aplikasi ini dibuat dengan :
-<ul>
-  <li>Sistem Operasi Windows (Sebelum migrasi ke linux OS)</li>
-  <li>Aplikasi Construct 2</li>
-  <li>Corel Draw X7</li>
-</ul>
-
 ## Cara Mendownloadnya :
 <p>1. KLik link berikut [https://s.id/Qiroatuna-App]</p>
 <p>2. Klik tombol download warna biru di tengah atau tanda panah kebawah di pojok kanan atas</p>
