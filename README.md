@@ -38,7 +38,7 @@ Untuk mengunduh aplikasi ini silahkan pilih sesuai sistem operasi kamu :
 ## License
 
 **Free Software, Hell Yeah!**
-> Whatsapp : 0821-4361-3348</br>
+> Whatsapp : 0812-5935-7725</br>
 > Youtube : www.youtube.com/@latardev3780</br>
 > Website : www.latardev.com</br>
 [![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
